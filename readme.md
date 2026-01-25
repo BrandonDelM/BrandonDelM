@@ -7,7 +7,9 @@ In my freetime I like to make and listen to music and make helpful scripts for d
 ### Current Projects I'm Working On:
 * https://github.com/BrandonDelM/Research-CoPilot (With UC Merced's Machine Learning Club)
 * https://github.com/nujellaharshini/Spot-it-game--DSS (With UC Merced's Data Science Society)
+* https://github.com/BrandonDelM/ucm-eon-discord-bot
 * https://github.com/BrandonDelM/BrandonDelM.github.io
+
 
 
 
